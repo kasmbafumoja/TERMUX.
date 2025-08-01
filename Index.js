@@ -47,4 +47,4 @@ async function connectBot() {
     })
 }
 
-connect
+connectBot()
